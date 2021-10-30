@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Noto Sans Display";
+  src: url("fonts/NotoSansDisplay-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
+.idkhowtonameit {
+  width: 100%;
+}
+
+.idkhowtonameit__title {
+  font-family: "Noto Sans Display";
+  font-size: 10rem;
+}
+/*# sourceMappingURL=style.css.map */

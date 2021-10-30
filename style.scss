@@ -1,0 +1,15 @@
+$font_main: "Noto Sans Display";
+
+@font-face{
+    font-family: $font_main;
+    src: url("fonts/NotoSansDisplay-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
+.idkhowtonameit{
+    width: 100%;
+
+    &__title{
+        font-family: $font_main;
+        font-size: 10rem;
+    }
+}
